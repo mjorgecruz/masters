@@ -1,4 +1,4 @@
-[[https://github.com/mjorgecruz/masters/blob/main/thesis.png|alt=octocat]]
+![thesis](https://github.com/mjorgecruz/masters/blob/main/thesis.png)
 
 # Master's Thesis: Development of an active trans-femoral prosthesis
 
